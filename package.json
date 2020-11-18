@@ -1,6 +1,6 @@
 {
   "name": "gfutils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "common utility modules addes in this package",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "axios": "^0.21.0",
     "log4js": "^6.3.0"
   }
 }
