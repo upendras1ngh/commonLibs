@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "gfutils",
   "version": "1.0.0",
   "description": "common utility modules addes in this package",
   "main": "index.js",
